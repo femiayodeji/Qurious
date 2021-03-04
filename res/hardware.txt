@@ -1,0 +1,509 @@
+A microprocessor unit, a memory unit, and an input/output unit form a ________.
+
+CPU
+compiler
+microcomputer
+ALU
+
+microcomputer
+
+**
+
+From what location are the 1st computer instructions available on boot up ______.
+
+ROM BIOS
+CPU
+boot.ini
+CONFIG.SYS
+None of the above
+
+ROM BIOS
+
+**
+
+A hard disk is divided into trakcs which are further subdivided into _______.
+
+clusters
+sectors
+vectors
+heads
+None of the above
+
+sectors
+
+**
+
+Which peripheral port provides the FASTEST throughput to laser printers _______.
+
+RS-232
+SCSI
+Parallel
+Serial
+None of the above
+
+Parallel
+
+**
+
+The mouse pointer moves erratically, what is the possible cause? The mouse _________.
+
+ball is dirty
+is not connected
+driver is not installed properly
+has an incorrect IRQ setting
+None of the above
+
+ball is dirty
+
+** 
+
+A set of programs with full set of documetation is considered as ________.
+
+database packages
+file package
+software
+software packages
+
+software packages
+
+**
+
+Specialized program that allows users to utilize in specific application is classified as ___________.
+
+relative programs
+application programs
+relative programs
+replicate programs
+
+application programs
+
+**
+
+Programs used to control system performance are classified as _________.
+
+experimental programs
+system programs
+specialized programs
+organised programs
+
+specialized programs
+
+**
+
+System programs examples includes _______.
+
+operating system of computer
+trace program
+compiler
+all of the above
+
+all of the above
+
+** 
+
+Commercial organization specializing preparation and design of software package is classified as __________.
+
+library house
+software houses
+program houses
+directory houses
+
+software houses
+
+**
+
+Programs are fully tested and documented properly before including it into ___________.
+
+text publishing package
+desktop publishing package
+experimental package
+organizing publishing package
+
+desktop publishing package
+
+**
+
+Which of the following memory medium is not used as main memory system _________.
+
+Magnetic core
+Semiconductor
+Magnetic tape
+Both semiconductor and magnetic tape
+
+Magnetic tape
+
+**
+
+The storage subsystem in a microcomputer consists mainly of ____ or _____ media with varying capacities
+
+Memory or video
+Magnetic or optical
+Optical or memory
+Video or magnetic
+
+Magnetic or optical
+
+**
+
+The output of a printer is measured by _______.
+
+Dot per inch
+Dot per sq.inch
+Dots printed per unit time
+All of the above
+
+Dot per sq.inch
+
+**
+
+Which of the following services use TCP ________. \n1. DHCP \n2. SMTP \n 3. HTTP \n 4. TFTP \n 5. FTP
+
+1 and 2
+2, 3 and 5
+1, 2 and 4
+1, 3 and 4
+
+2, 3 and 5
+
+**
+
+What layer in the TCP/IP stack is equivalent to the Transport layer of the OSI model _________.
+
+Application
+Host-to-Host
+Internet
+Network Access
+
+Host-to-Host
+
+**
+
+You want to implement a mechanism that automates the IP configuration, including IP address, subnet, mask, default gateway, and DNS information. Which protocol will you use to accomplish this? __________.
+
+SMTP
+SNMP
+DHCP
+ARP
+
+DHCP
+
+**
+
+The DoD model (also called the TCP/IP stack) has four layers. Which layer of the DoD model is equivalent to the Network layer of the OSI model? _____________.
+
+Application
+Host-to-Host
+Internet
+Network Access
+
+Internet
+
+**
+
+Which of the following services use UDP? ____________. \n1. DHCP \n2. SMTP \n 3. SNMP \n 4. FTP \n 5. HTTP \n6. TFTP
+
+1, 3 and 6
+2 and 4
+1, 2 and 4
+All of the above
+
+1, 3 and 6
+
+**
+
+Which class of IP address provides a maximum of only 254 host addresses per network ID? ___________.
+
+Class A
+Class B
+Class C
+Class D
+
+Class C
+
+**
+
+If you use either Telnet or FTP, which is the highest layer you are using to transmit data? _____________.
+
+Application
+Presentation
+Session
+Transport
+
+Application
+
+**
+
+Which of the following is the decimal and hexadecimal equivalents of the binary number 10011101? ____________.
+
+155, 0x9B
+157, 0x9D
+159, 0x9F
+185, 0xB9
+
+157, 0x9D
+
+**
+
+Which of the following are layers in the TCP/IP model? ___________. \n1. Application \n2. Session \n3. Transport \n4. Internet \n5. Data Link \n.6 Physical
+
+1 and 2
+1,3 and 4
+2,3 and 5
+3,4 and 5
+
+1,3 and 4
+
+**
+
+Which layer 4 protocol is used for a Telnet connection? ____________.
+
+IP
+TCP
+TCP/IP
+UDP
+
+TCP
+
+**
+
+Which statements are true regarding ICMP packets? _________ \n1. ICMP guarantees datagram delivery. \n2. ICMP can provide hosts with information about network problems. \n3. ICMP is encapsulated within IP diagrams. \n4. ICMP is encapsulated within UDP datagrams.
+
+1 only
+2 and 3
+1 and 4
+All of the above
+
+2 and 3
+
+**
+
+How long is an IPv6 address? ____________.
+
+32 bits
+128 bytes
+64 bits
+128 bits
+
+128 bits
+
+**
+
+Which of the following services use TCP? __________. \n1. DHCP \n2. SMTP \n 3. HTTP \n 4. TFTP \n 5. FTP
+
+1 and 2
+2, 3 and 5
+1, 2 and 4
+1, 3 and 4
+
+2, 3 and 5
+
+**
+
+What layer in the TCP/IP stack is equivalent to the transport layer of the OSI model? __________.
+
+Application
+Host-to-Host
+Internet
+Network Access
+
+Host-to-Host
+
+**
+
+The DoD model (also called the TCP/IP stack) has four layers. Which layer of the DoD model is equivalent to the Network layer of the OSI model? ________________.
+
+Application
+Host-to-Host
+Internet
+Network Access
+
+Internet
+
+Which of the following services use UDP? _____________. \n1. DHCP \n2. SMTP \n 3. SNMP \n 4. FTP \n 5. HTTP \n6. TFTP
+
+1, 3 and 6
+2 and 4
+1, 2 and 4
+All of the above
+
+2 and 4
+
+**
+
+Which class of IP address provides a maximum of only 254 host addresses per network ID? __________?
+
+Class A
+Class B
+Class C
+Class D
+
+Class C
+
+**
+
+If you use either Telnet or FTP, which is the highest layer you are using to transmit data? ____________.
+
+Application
+Presentation
+Session
+Transport
+
+Application
+
+**
+
+Which of the following is the decimal and hexadecimal equivalents of the binary number 10011101? ____________.
+
+155, 0x9B
+157, 0x9D
+159, 0x9F
+185, 0xB9
+
+157, 0x9D
+
+**
+
+Which of the following are layers in the TCP/IP model? ___________. \n1. Application \n2. Session \n3. Transport \n4. Internet \n5. Data Link \n.6 Physical
+
+1 and 2
+1,3 and 4
+2,3 and 5
+3,4 and 5
+
+1,3 and 4
+
+**
+
+Which layer 4 protocol is used for a Telnet connection? _____________.
+
+IP
+TCP
+TCP/IP
+UDP
+
+TCP
+
+**
+
+Which of the following are TCP/IP protocols used at the Application layer of the OSI model? _____________. \n1. IP \n2. TCP \n3. Telnet \n4. FTP \n5. TFTP
+
+1 and 3
+1, 3 and 5
+3, 4 and 5
+All of the above
+
+3, 4 and 5
+
+**
+
+What protocol is used to find the hardware address of a local device? ___________.
+
+RARP
+ARP
+IP
+ICMP
+
+ARP
+
+**
+
+What is th eaddress range of a Class B network address in binary? ______________.
+
+01xxxxxx
+0xxxxxxx
+10xxxxxx
+110xxxxx
+
+10xxxxxx
+
+Which layer 1 devices can be used to enlarge the area covered by a single LAN segment? ______________. \n1. Switch \n2. NIC \n3. Hub \n4. Repeater \n5. RJ45 transceiver
+
+1 only
+1 and 3
+3 and 4
+5 only
+
+3 and 4
+
+**
+
+Routers operate at layer ________ LAN switches operate at layer ______. Ethernet hubs operate at layer _____. Word processing operates at layer ______. 
+
+3, 3, 1, 7
+3, 2, 1, none
+3, 2, 1, 7
+3, 3, 2, none
+
+3, 2, 1, none
+
+**
+
+Which of the following describe router functions? __________.
+
+Packet switching
+Packet filtering
+Internetwork communication
+Path selection
+All of the above
+
+All of the above
+
+**
+
+Why does the data communication industry use the layered OSI reference model? __________.\n1. It divides the network communication process into smaller and simpler components, thus aiding component development, design, and troubleshooting \n2. It enables equipment from different vendors to use the same electronic components, thus saving research and development funds \n3. It supports the evolution of multiple competing standards and thus provides business opportunities for equipment manufacturers \n4. It encourages industry standardization by defining what functions occur at each layer of the model.
+
+1 only
+1 and 4
+2 and 3
+3 only
+
+1 and 4
+
+**
+
+Frames from one LAN can be transmitted to another LAN via the device
+
+Router
+Bridge
+Repeater
+Modem
+
+Bridge
+
+**
+
+What is the default subnet mask for a class C network? _________.
+
+127.0.0.1
+255.0.0.0
+255.255.0.0
+255.255.255.0
+None of the above
+
+255.255.255.0
+
+**
+
+Which of the following is used for modulation and demodulation? __________.
+
+modem
+protocols
+gateway
+multiplexer
+None of the above
+
+modem
+
+**
+
+Which of the following is not a disadvantage of wireless LAN? .____________
+
+Slower data transmission
+higher error rate
+interference of transmissions from different computers
+All of the above
+
+All of the above
+
+**
+

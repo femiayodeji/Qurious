@@ -1,0 +1,204 @@
+What is the objective of perceptron learning?
+
+class identification
+weight adjustment
+adjust weight along with class identification
+none of the mentioned
+
+adjust weight along with class identification
+
+*********
+
+On what factor the number of outputs depends?
+
+distinct inputs
+distinct classes
+both on distinct classes & inputs
+none of the mentioned
+
+distinct classes
+
+*********
+
+In perceptron learning, what happens when input vector is correctly classified?
+
+small adjustments in weight is done
+large adjustments in weight is done
+no adjustments in weight is done
+weight adjustments doesn’t depend on classification of input vector
+
+no adjustments in weight is done
+
+***************
+
+When two classes can be separated by a separate line, they are known as?
+
+linearly separable
+linearly inseparable classes
+may be separable or inseparable, it depends on system
+none of the mentioned
+
+linearly separable
+
+************
+
+If two classes are linearly inseparable, can perceptron convergence theorem be applied?
+yes
+no
+
+no
+
+*******
+
+Two classes are said to be inseparable when?
+
+there may exist straight lines that doesn’t touch each other
+there may exist straight lines that can touch each other
+there is only one straight line that separates them
+all of the mentioned
+
+there is only one straight line that separates them
+
+************
+
+Is it necessary to set initial weights in prceptron convergence theorem to zero?
+yes
+no
+
+no
+
+*********
+
+The perceptron convergence theorem is applicable for what kind of data?
+
+binary
+bipolar
+both binary and bipolar
+none of the mentioned
+
+both binary and bipolar
+
+******
+
+w(m + 1) = w(m) + n(b(m) – s(m)) a(m), where b(m) is desired output, s(m) is actual output, a(m) is input vector and ‘w’ denotes weight, can this model be used for perceptron learning?
+
+yes
+no
+
+yes
+
+***********
+
+If e(m) denotes error for correction of weight then what is formula for error in perceptron learning model: w(m + 1) = w(m) + n(b(m) – s(m)) a(m), where b(m) is desired output, s(m) is actual output, a(m) is input vector and ‘w’ denotes weight
+
+e(m) = n(b(m) – s(m)) a(m)
+e(m) = n(b(m) – s(m))
+e(m) = (b(m) – s(m))
+none of the mentioned
+
+e(m) = (b(m) – s(m))
+
+*************
+
+Convergence in perceptron learning takes place if and only if:
+
+a minimal error condition is satisfied
+actual output is close to desired output
+classes are linearly separable
+all of the mentioned
+
+classes are linearly separable
+
+****************
+
+When line joining any two points in the set lies entirely in region enclosed by the set in M-dimensional space , then the set is known as?
+
+convex set
+concave set
+may be concave or convex
+none of the mentioned
+
+convex set
+
+**************
+
+Is it true that percentage of linearly separable functions will increase rapidly as dimension of input pattern space is increased?
+
+yes
+no
+
+no
+
+**************
+
+If pattern classes are linearly separable then hypersurfaces reduces to straight lines?
+
+yes
+no
+
+yes
+
+*****
+
+As dimensionality of input vector increases, what happens to linear separability?
+
+increases
+decreases
+no effect
+doesn’t depend on dimensionality
+
+decreases
+
+*****
+
+In a three layer network, shape of dividing surface is determined by?
+
+number of units in second layer
+number of units in third layer
+number of units in second and third layer
+none of the mentioned
+View Answer
+
+number of units in second layer
+
+*****
+
+In a three layer network, number of classes is determined by?
+
+number of units in second layer
+number of units in third layer
+number of units in second and third layer
+none of the mentioned
+
+number of units in third layer
+
+*****
+
+Intersection of linear hyperplanes in three layer network can only produce convex surfaces, is the statement true?
+
+yes
+no
+
+yes
+
+*****
+
+Intersection of convex regions in three layer network can only produce convex surfaces, is the statement true?
+
+yes
+no
+
+no
+
+*****
+
+If the output produces nonconvex regions, then how many layered neural is required at minimum?
+
+2
+3
+4
+5
+
+4
+
+*****

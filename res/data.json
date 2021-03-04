@@ -1,0 +1,42 @@
+{
+	"csc101":[
+		{
+			"_id": "1b671a64-40d5-491e-99b0-da01ff1f3341",
+			"question": "what is a computer?",
+			"options": ["Toy","washing machine"," an electronic device"],
+			"answer":" an electronic device"
+		},
+		{
+			"_id": "491e-1b671a64-40d5-da01ff1f3341-99b0",
+			"question": "what is an array?",
+			"options": ["list","linear collection of homogenous data"," something else"],
+			"answer":"linear collection of homogenous data"
+		},
+		{
+			"_id": "416ac246-e7ac-49ff-93b4-f7e94d997e6b",
+			"question": "Bit is represented in ____",
+			"options": ["1","0","0 and 1"],
+			"answer":"0 and 1"
+		}
+	],
+	"sta112":[
+		{
+			"_id": "fdda765f-fc57-5604-a269-52a7df8164ec",
+			"question": "what is a statistic?",
+			"options": ["computed parameter of a population","Table and data","calculation"],
+			"answer":"computed parameter of a population"
+		},
+		{
+			"_id": "3bbcee75-cecc-5b56-8031-b6641c1ed1f1",
+			"question": "Mean is _____",
+			"options": ["this","that","something"],
+			"answer":"something"
+		},
+		{
+			"_id": "e8b5a51d-11c8-3310-a6ab-367563f20686",
+			"question": "Bit is represented in ____",
+			"options": ["1","0","0 and 1"],
+			"answer":"0 and 1"
+		}
+	]
+}
